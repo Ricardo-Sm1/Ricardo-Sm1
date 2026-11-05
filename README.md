@@ -11,7 +11,8 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Univericidade Cidade de São Paulo -  UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Frontend / Análise de Dados.
+Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Univericidade Cidade de São Paulo -  UNICID. 
+Possuo foco em Desenvolvimento Frontend / Análise de Dados.
  
 ---
  
