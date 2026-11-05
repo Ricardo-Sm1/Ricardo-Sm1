@@ -1,4 +1,4 @@
-# Ricardo-Santos-Marcelino
+# Ricardo Santos Marcelino
 > Estudante de Análise e Desenvolvimento de Sistemas
  
 ---
