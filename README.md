@@ -13,9 +13,6 @@
 ### 👨‍💻 Sobre
 Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Univericidade Cidade de São Paulo -  UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Frontend / Análise de Dados.
  
-* **Habilidades Técnicas:** Python, Java, Figma, Photoshp, After Efects.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
- 
 ---
  
 ### 🛠 Minhas Ferramentas Favoritas
@@ -35,7 +32,6 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 #### 🤖 Inteligência Artificial & Ciência de Dados
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
  
----
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
