@@ -29,12 +29,11 @@ possuo foco em Desenvolvimento Frontend / Análise de Dados.
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
-### 📂 Portfólio de Projetos
+### 📂 Portfólios e Projetos
 
-#### 🗃️ Programção de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritimo de Auditoria de Dados** |Um Programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritomo-de-altoria-de-dados/) |
-| **Traduzindo Lógica para Python** |Este projeto reúne um conjunto de módulos Python desenvolvidos com foco em **lógica de programação aplicada**, abrangendo cenários do dia a dia como gestão de vendas, análise climática, controle de notas escolares e simulação de investimentos. | [Ver Projeto](./projeto_logica_para_python/) |
+| **Estudos Python** | O portifólio em questão são projetos de estudos do meu 1° Semestre da faculdade | [Ver Projeto](https://github.com/Ricardo-Sm1/portfolio-ricardo-santos-marcelino) |
+| **Banco de Dados** | Este projeto é um banco de dados completo desenvolvido para um restaurante da zona leste de São Paulo com intuito academico | [Ver Projeto](https://github.com/thiago-rodrigues-S6/projeto-banco-de-dados-ads) |
 ---
  
