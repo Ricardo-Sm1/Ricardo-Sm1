@@ -35,5 +35,5 @@ possuo foco em Desenvolvimento Frontend / Análise de Dados.
 | :--- | :--- | :---: |
 | **Estudos Python** | O portifólio em questão são projetos de estudos do meu 1° Semestre da faculdade | [Ver Projeto](https://github.com/Ricardo-Sm1/portfolio-ricardo-santos-marcelino) |
 | **Banco de Dados** | Este projeto é um banco de dados completo desenvolvido para um restaurante da zona leste de São Paulo com intuito academico | [Ver Projeto](https://github.com/thiago-rodrigues-S6/projeto-banco-de-dados-ads) |
----
+
  
