@@ -6,13 +6,12 @@
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/ricardo-santos-3b3a04291)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ricardo.marcelino455@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./cv/CV-Ricardo-Santos-Marcelino.pdf)
  
 ---
  
 ### 👨‍💻 Sobre
 Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Univericidade Cidade de São Paulo -  UNICID
-Possuo foco em Desenvolvimento Frontend / Análise de Dados.
+possuo foco em Desenvolvimento Frontend / Análise de Dados.
  
 ---
  
